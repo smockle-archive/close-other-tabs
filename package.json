@@ -1,7 +1,7 @@
 {
   "name": "close-other-tabs",
   "main": "./lib/close-other-tabs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Close inactive tabs using option-command-w.",
   "repository": "https://github.com/smockle/close-other-tabs",
   "license": "ISC",
