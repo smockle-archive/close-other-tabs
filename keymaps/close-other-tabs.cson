@@ -1,2 +1,2 @@
 'atom-workspace':
-  'alt-cmd-w': 'close-other-tabs:close-other-tabs'
+  'ctrl-cmd-w': 'close-other-tabs:close-other-tabs'
